@@ -1,0 +1,21 @@
+.DictionaryApp {
+  padding: 30px;
+  text-align: center;
+  margin: 0 auto;
+  font-style: mono spaces;
+font-weight: bolder;
+font-size: 20px;
+}
+
+.Dictionary{
+ padding: 20px;
+  text-align: center;
+  margin: 0 auto;
+  font-style: mono space;
+font-weight: bolder;
+font-size: 15px;
+border: aliceblue;
+border-style: solid;
+
+}
+
